@@ -21,3 +21,20 @@ bool # esto es un boleano
 
 texto= input()
 print(texto)
+
+## tipos de datos
+## listas
+lista[] ##corchetes son importantes
+
+diccionario {"key":"value"}
+
+## sets
+
+sets{1,2,3,4,5}
+
+##tuplas
+
+tuplas =(1,2,3,4,5)
+
+
+
