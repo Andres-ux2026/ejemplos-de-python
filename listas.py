@@ -9,7 +9,7 @@ alumnos=[] #lista vacia
     print(alumnos) """
 
 
-while True:
+"""  while True:
     print("--------------MENU")
     print("ingresa opcion 1 agregar ")
     print("ingresa opcion 2: borrar")
@@ -25,8 +25,21 @@ while True:
         alumnos.remove(nombre)
         print(alumnos)
     else:
-        break
+        break"""
 
+""" lumnos2=["carlos","manuel"]
 
+print(len(alumnos2))
+
+for i in range(1,10,3):
+    print(i) """
+
+""" numero=[1,2,3,4,5,6,7,8,9,10,1,2,4,5,6,7,8,9,8,7,6,5,4,3,2,1]
+print(numero)
+ordenados= sorted(numero , reverse=True)
+print(ordenados) """
     
-    
+#slices 
+
+texto= "esto es un texto"
+print(texto[5:7:2])
